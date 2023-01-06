@@ -55,7 +55,7 @@ There are also other container runtimes including:
 
 and a few others outside of Docker.
 
-The reason why Docekr itself is so popular is because Docker made using containers way easier. Before Docker, we had other runtimes and engines like LXC (Linux Containers). However, Docker made using containers, container engines, and container runtimes way more flexible and consumable. Even thinking about, for example, Docker Desktop. Docker Desktop literally gives you containers right on your local computer.
+The reason why Docker itself is so popular is because Docker made using containers way easier. Before Docker, we had other runtimes and engines like LXC (Linux Containers). However, Docker made using containers, container engines, and container runtimes way more flexible and consumable. Even thinking about, for example, Docker Desktop. Docker Desktop literally gives you containers right on your local computer.
 
 In short, don’t be confused by the Docker runtime or other runtimes in terms of if they’re different. They aren’t different fundamentally. Of course, the commands that you use with them will be different (and you’ll see that throughout this series).
 
